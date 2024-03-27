@@ -41,7 +41,7 @@ class Office{
         Manager m=new Manager();
         m.displayInfo();
         m.calculateSalary();
-
+        m.calculateSalary();
         System.out.println("--------------------------------------");
 
         Programmer p=new Programmer();
